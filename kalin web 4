@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Portofolio</title>
+    <script src="https://kit.fontwesome.com/de8de52639.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="web kalin 4.css">
+</head>
+<body>
+     
+    <!--boxicons link--->
+    <link rel="stylesheet"
+    href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+  
+    
+<div class="home" id="home">
+    <nav>
+        <h2 class="logo">Portofo<span>lio</span></h2>
+        <ul>
+            <a href="#home" class="button">Home</a>
+            <a href="#about" class="button">About</a>
+            <a href="#hobbi" class="button">Hobbi</a>
+            <a href="#activity" class="button">Activity</a>
+            <a href="#contact" class="button">Contact Me</a>
+        </ul>
+        <a href="kalin web 3" class="btn">Another Web</a>
+    </nav>
+    <div class="image">
+        <img src="image/cute-removebg.png">
+    </div>
+    <div class="content">
+        <h4>Hello, My Name Is</h4>
+        <h1>Kalina Rayhan</h1>
+        <h3>Saya Adalah Siswi SMKN 1 TANJUNGPINANG</h3>
+        <a href="#about">More About Me</a>
+   </div>
+</div> 
+
+<section class="about" id="about">
+    <div class="about-me">
+        <img src="image/WhatsApp_Image_2023-09-07_at_13.36.31-removebg-preview.png">
+        <div class="about-text">
+            <h2>About<span>Me</span></h2>
+            <h5>computer and networking<span> engineering student</span></h5>
+            <p>Hi, introduce my name is Kalin Rayhan, I am in grade 11 and 
+               I am a student majoring in computer and network engineering at SMK N 1 Tanjungpinang.</p>
+               <a href="#contact" class="button">Contact Me</a>
+        </div>
+    </div>
+</section>
+
+<section class="Hobby" id="hobbi">
+    <div class="title">
+        <h2>Hob<span>bi</span></h2>
+    </div>
+    <div class="box">
+        <div class="card">
+            <i class="fa-solid fa-bars"></i>
+            <h5>WRITING</h5>
+            <div class="pra">
+                <p>My first hobby is that I like to write, sometimes I write short stories in my free time. I have made lots of short stories, I have loved writing short stories since I was in grade 4 elementary school. I wrote short stories only on paper,
+                   then after I made the story I would give it to my father to keep.</p>
+                <p style="text-align: center;">
+                    
+                 </p>
+            </div>
+        </div>
+        <div class="card">
+            <i class="fa-solid fa-bars"></i>
+            <h5>DRAWING</h5>
+            <div class="pra">
+                <p>Furthermore, my second hobby is drawing. I really like drawing things. when I draw I feel like I'm creating something new, starting from drawing mountains, houses, 
+                   then I try to draw buildings and now I'm trying to draw someone's face. recently I tried to draw a Korean idol that I lik </p>
+                <p style="text-align: center;">
+                   
+                </p>
+            </div>
+        </div>
+        <div class="card">
+            <i class="fa-solid fa-bars"></i>
+            <h5>PLAYING GAMES</h5>
+            <div class="pra">
+                <p>And my last hobby is that I like playing games, the game I often play is Mobile Legend. 
+                   I usually play games in my spare time or on my days off, I also usually play Mobile Legend with my friends and siblings.</p>
+                <p style="text-align: center;">
+                 </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="Activity" id="activity">
+    <div class="title">
+        <h2>Acti<span>vity</span></h2>
+    </div>
+    <div class="box">
+        <div class="card">
+            <i class="fa-solid fa-bars"></i>
+            <h5>Monday-Friday</h5>
+            <div class="pra">
+                <p>My activity from Monday to Friday is going to school, because I am a student in class 2 of a vocational high school. Monday to Thursday my school starts from 07.15-16.00, then Friday also starts from 07.15-15.00,
+                   then I arrive home probably at 16.45.</p>
+                <p style="text-align: center;">
+                    
+                 </p>
+            </div>
+        </div>
+        <div class="card">
+            <i class="fa-solid fa-bars"></i>
+            <h5>Saturday-Sunday</h5>
+            <div class="pra">
+                <p>then on Saturday and Sunday I do my activities at home, because on Saturday and Sunday I don't go to school. 
+                   Usually on that day I will do activities with my family, such as having breakfast together, walking, packing the house, and doing other activities.</p>
+                <p style="text-align: center;">
+                </p>
+            </div>
+        </div>
+        </div>
+</section>
+
+<section class="contact-me" id="contact">
+    <div class="contact-text">
+        <h2>Contact <span>Me</span></h2>
+        <div class="contact-info">
+            <div class="contact-box">
+                <div class="contact">
+                    <h4>Address</h4>
+                    <p>Jl.Ganet, Pinang Kencana</p>
+                </div>
+                <div class="contact">
+                    <h4>Email</h4>
+                    <p>kalinarayhan8@gmail.com</p>
+            </div>
+            <div class="contact">
+                <h4>Hp</h4>
+                <p>+628318851651</p>
+        </div>
+    </div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d249.33051998316006!2d104.52463046996144!3d0.9339079311416787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d96c4a77667703%3A0x2bcc521a69f2d6c!2sJl.%20Ganet%2C%20Pinang%20Kencana%2C%20Kec.%20Tanjungpinang%20Tim.%2C%20Kota%20Tanjung%20Pinang%2C%20Kepulauan%20Riau!5e0!3m2!1sid!2sid!4v1694362330852!5m2!1sid!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</section> 
+
+<footer>
+    <p>Kalina Rayhan</p>
+    <p>제 포트폴리오 홈페이지를 봐주셔서 감사합니다</p>
+</div>  
+    <div class="social">
+    <a href="https://www.tiktok.com/@kyt02s?_r=1&_d=e7jmf8f19k6l4k&sec_uid=MS4wLjABAAAAks-YfkzAjulpG12kSznpXLh9A99qNWtrKwovMbxXT16y2PI6aItIVy0ti8LKN9JT&share_author_id=7058845212776596506&sharer_language=id&source=h5_t&u_code=e02a90ek5d3a6i&timestamp=1694066440&user_id=7058845212776596506&sec_user_id=MS4wLjABAAAAks-YfkzAjulpG12kSznpXLh9A99qNWtrKwovMbxXT16y2PI6aItIVy0ti8LKN9JT&utm_source=whatsapp&utm_campaign=client_share&utm_medium=android&share_iid=7269225338084919045&share_link_id=c74e380e-d4b7-4ba2-95c4-e1fbd25a940b&share_app_id=1180&ugbiz_name=ACCOUNT&ug_btm=b8727%2Cb4907&social_share_type=5"><i class='bx bxl-tiktok' ></i></a>
+    <a href="https://wa.me/qr/UU5VLNDD46O2B1"><i class='bx bxl-whatsapp' ></i></a>
+    <a href="https://youtube.com/@kalinarayhan782?si=aSO9JNfqTrqg0hor"><i class='bx bxl-youtube' ></i></a>
+    <a href="https://instagram.com/kalinryhn?igshid=NzZlODBkYWE4Ng=="><i class='bx bxl-instagram' ></i></a>
+  </div>
+  <li><a href="#home">Home</a></li>
+</footer>
+  </head>
+  <body>
